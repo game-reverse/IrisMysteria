@@ -1,8 +1,9 @@
 [REWRITE]
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/master_[0-9]*/mDressSkills url 302 https://raw.githubusercontent.com/greenjerry/IrisMysteria/master/masterdata/mDressSkills
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/master_[0-9]*/mDressAbilities url 302 https://raw.githubusercontent.com/greenjerry/IrisMysteria/master/masterdata/mDressAbilities
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/[0-9]*_[0-9]*/assetbundle/iOS/scenarios/(.*) url 302 https://imys.loli.ski/IOS/scenarios/$1&f=0
-^https://[a-zA-Z]*.cdn.aimia.dmmgames.com/[0-9]*_[0-9]*/assetbundle/iOS/common/fonts/(.*) url 302 https://imys.loli.ski/IOS/common/fonts/$1&f=0
+^https://adweimk.cdn.aimia.dmmgames.com/(.*)/mDressSkills url 302 https://imys.loli.ski/$1/mDressSkills
+^https://adweimk.cdn.aimia.dmmgames.com/(.*)/mDressAbilities url 302 https://imys.loli.ski/$1/mDressAbilities
+^https://adweimk.cdn.aimia.dmmgames.com/(.*)/assetbundle/iOS/scenarios/(.*) url 302 https://imys.loli.ski/$1/assetbundle/iOS/scenarios/$2&f=1
+^https://adweimk.cdn.aimia.dmmgames.com/(.*)/assetbundle/iOS/common/fonts/(.*) url 302 https://imys.loli.ski/$1/assetbundle/iOS/common/fonts/$2&f=1
+
 
 [MITM]
 hostname = *.cdn.aimia.dmmgames.com
