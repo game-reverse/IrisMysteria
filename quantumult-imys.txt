@@ -8,4 +8,4 @@
 [MITM]
 hostname = *.cdn.aimia.dmmgames.com
 
-请复制以上内容至Quantumult配置文件末尾
+请复制以上英文内容至Quantumult配置文件末尾
