@@ -1,7 +1,7 @@
 # 爱丽丝圣礼iOS汉化补丁
 ### 梦之圣礼汉化组
 ### [使用说明请见Wiki](https://github.com/greenjerry/IrisMysteria/wiki)
-### [图片视频资源发布页](https://github.com/greenjerry/IrisMysteria/wiki/图片资源提取)
+### [图片视频资源发布页](https://github.com/greenjerry/IrisMysteria/wiki/Images)
 ### 交流群号：912340948
 
 ***
