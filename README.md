@@ -1,5 +1,6 @@
 # 爱丽丝圣礼汉化补丁&&图片视频资源分享
 ### 梦之圣礼汉化组
+##  iOS版技能汉化已修复，请更新或修改quantumult(X)配置文件，并在 登陆界面 清空缓存重新加载
 ### [使用说明请见Wiki](https://github.com/greenjerry/IrisMysteria/wiki)
 ### [图片视频资源发布页](https://github.com/greenjerry/IrisMysteria/wiki/Images)
 ### 交流群号：912340948
