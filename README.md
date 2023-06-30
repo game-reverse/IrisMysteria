@@ -1,14 +1,14 @@
 # 爱丽丝圣礼汉化补丁&&图片视频资源分享
 
 ## 注意：本补丁停止更新维护，请使用如下新汉化补丁，图片资源分享一切正常  
-* https://github.com/greenjerry/IrisMysteria-Translate/wiki
+* https://github.com/game-reverse/IrisMysteria-Translate/wiki
 ### 本补丁所有内容已被新汉化补丁包含，额外内容使用台服翻译  
 ***
 ***
 
 ### 梦之圣礼汉化组出品
-### [使用说明请见Wiki](https://github.com/greenjerry/IrisMysteria/wiki)
-### [图片视频资源发布页](https://github.com/greenjerry/IrisMysteria/wiki/Images)
+### [使用说明请见Wiki](https://github.com/game-reverse/IrisMysteria/wiki)
+### [图片视频资源发布页](https://github.com/game-reverse/IrisMysteria/wiki/Images)
 ### 交流群号：912340948
 
 ***
